@@ -1,0 +1,17 @@
+var nam = "variavel"
+var num = 32
+
+var num1 = 2.5
+var num2 = 8
+
+while num2 <= 25
+    if 7 > 10
+        var pisca = 1
+    else
+        var pisca = 0
+    end
+
+    if num2 == 20
+        print(num)
+    end
+end

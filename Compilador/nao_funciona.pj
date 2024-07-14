@@ -1,0 +1,10 @@
+
+var nam = variavel
+var num = 32
+
+var exemp = 0.7
+
+var um = 0.7 >= 0.12
+var dois = 15 < 27
+
+var umdois = um or dois
